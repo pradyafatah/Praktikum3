@@ -1,6 +1,6 @@
-# Praktikum 3
-## menentukan bilangan terbesar
-### Flowchart menentukan bilangan terbesar
+# Praktikum 3 -Menentukan bilangan terbesar
+
+## Flowchart menentukan bilangan terbesar
 contoh gambar menentukan bilangan terbesar mengunakan flowchart :
 ![jendela install](![home - Imgur](![flowchart - Imgur](https://github.com/user-attachments/assets/eda20696-919d-4bc5-8ed3-fb9ae21ec429)
 ))
